@@ -1,0 +1,5 @@
+model\Task.class
+controller\TaskController.class
+enumController\TaskEnum.class
+com\mycompany\tasktracker_cli\App.class
+helpers\CreateJsonFileIfNotExists.class
